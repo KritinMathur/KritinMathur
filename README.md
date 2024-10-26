@@ -28,7 +28,7 @@ In recent years, I have specialized in developing:
 <img src="https://github.com/user-attachments/assets/865e682e-d5bf-40fc-94db-0ef7c5ab086a" alt="DINO-NERF" width="700">
 </div> 
 
-### [DINO-NERF: Geometric Consistency Through Global Visual Cues]()
+### [DINO-NERF: Geometric Consistency Through Global Visual Cues](https://github.com/user-attachments/files/17532216/DINO-NERF_Report.pdf)
 - Developed a pipeline to incorporate **DINOv2 features** into **Neural Radiance Fields (NeRFs)**, a cutting-edge technique in 3D scene reconstruction from 2D images.
 - The project enhanced **geometric consistency** by utilizing global visual cues, which improved the accuracy of depth maps and object segmentation, particularly when reconstructing scenes from novel viewpoints.
 - This advancement enabled the model to maintain the structural integrity of objects and spatial relationships across various perspectives, making it ideal for tasks like **3D reconstruction** in autonomous navigation and computer vision applications.
@@ -38,7 +38,7 @@ In recent years, I have specialized in developing:
 <img src="https://github.com/user-attachments/assets/c45767e3-270f-42cc-8348-0bca12239c20" alt="SLAM" width="400">
 </div>
 
-### [Simultaneous Localization and Mapping (SLAM)](https://github.com/your-repo/slam-project)
+### [Simultaneous Localization and Mapping (SLAM)](https://github.com/KritinMathur/particle-filter-based-SLAM)
 - Implemented a **particle filter-based SLAM** system for indoor robotic navigation, which combined sensor data from **IMU** (Inertial Measurement Unit) and **LiDAR** to map and localize the robot in unknown environments.
 - Applied the system to the humanoid robot **THOR**, developed at Penn and UCLA, achieving highly accurate 3D mapping and real-time localization.
 - The system's ability to dynamically adjust to changing environments and efficiently fuse sensor data was key to improving navigation precision, applicable in autonomous robotic systems like drones or mobile robots in unstructured indoor environments.
