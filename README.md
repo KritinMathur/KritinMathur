@@ -78,5 +78,5 @@ The goal was to achieve stable, smooth walking behavior for the agent, which req
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KritinMathur&show_icons=true&theme=radical) -->
 
 ### 💬 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kritin-mathur/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:kritinmathur75@gmail.com)
