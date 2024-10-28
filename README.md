@@ -48,7 +48,7 @@ In recent years, I have specialized in developing:
 <img src="https://github.com/user-attachments/assets/56f1e02a-8f44-4b56-9987-9fc8077a1c04" alt="Controller" width="500">
 </div>
 
-### [Trajectory Generation and Control of a Quadrotor](https://github.com/KritinMathur/meam520_labs)
+### [Trajectory Generation and Control of a Quadrotor](https://github.com/KritinMathur/Trajectory-Generation-and-Control-of-a-Quadrotor)
 - Developed a complete **trajectory generation and control system** for a quadrotor UAV. This involved modeling the physical forces acting on the quadrotor and implementing **dynamic motion planning** to ensure smooth flight paths.
 - Incorporated **Visual-Inertial Odometry (VIO)** to track the quadrotor’s position using camera data and inertial sensors, enabling precise localization in environments without GPS.
 - Designed a **geometric non-linear controller** that maintained flight stability under dynamic conditions, optimizing the quadrotor’s ability to follow pre-determined paths with accuracy. Additionally, employed **complementary filtering** for accelerometer calibration, ensuring sensor data reliability during flight.
@@ -63,6 +63,15 @@ In recent years, I have specialized in developing:
 The goal was to achieve stable, smooth walking behavior for the agent, which required tuning the neural network's policy for controlling the Walker’s actions in real-time and learning optimal control strategies over time.
 - Utilized PPO's ability to balance exploration and exploitation effectively, achieving consistent learning progress and significantly improving Walker’s gait, control, and movement precision.
 - This work has applications in **robotic control systems** for legged robots or other dynamic robotic agents, where stability and movement efficiency are critical.
+
+<br>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/39f7fb39-a09e-4b61-8b2f-34c59fcc8c70" alt="FrankMotionPlanner" width="400">
+</div>
+
+### [Franka Motion Planning](https://github.com/KritinMathur/FrankaMotionPlanning)
+- Forward and inverse kinematics were developed for position and velocity to give the arm smooth, precise control over its movements.
+- Built motion planners like RRT and APF for a 7-DOF Franka Emika Panda arm, making it navigate complex environments with ease.
 
 ## Other Projects
 
