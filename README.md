@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Kritin Mathur
 ### 🛠️ Robotics Enthusiast | 🔬 AI/ML Developer | 🚀 Innovator in Autonomous Systems
 
-I am a robotics engineer with a strong focus on developing advanced autonomous systems. Currently pursuing my Master's in Robotics at the University of Pennsylvania, I have gained extensive experience in areas such as SLAM (Simultaneous Localization and Mapping), reinforcement learning, computer vision, and AI for robotics.
+I am a robotics engineer with a strong focus on developing advanced autonomous systems. Currently pursuing my Master's in Robotics at the University of Pennsylvania, I have gained extensive experience in areas such as SLAM (Simultaneous Localization and Mapping), reinforcement learning, computer vision, and AI for robotics. You can view my resume [here](https://github.com/user-attachments/files/17820515/Resume_Penn_S3_v3.pdf).
+
 
 In recent years, I have specialized in developing:
 
@@ -23,6 +24,16 @@ In recent years, I have specialized in developing:
 ---
 
 ## 🚀 Featured Projects
+<br>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/39f7fb39-a09e-4b61-8b2f-34c59fcc8c70" alt="FrankMotionPlanner" width="400">
+</div>
+
+### [Franka Motion Planning](https://github.com/KritinMathur/FrankaMotionPlanning)
+- Forward and inverse kinematics were developed for position and velocity to give the arm smooth, precise control over its movements.
+- Built motion planners like RRT and APF for a 7-DOF Franka Emika Panda arm, making it navigate complex environments with ease.
+
+
 <br>
 <div align="center">
 <img src="https://github.com/user-attachments/assets/865e682e-d5bf-40fc-94db-0ef7c5ab086a" alt="DINO-NERF" width="700">
@@ -63,15 +74,6 @@ In recent years, I have specialized in developing:
 The goal was to achieve stable, smooth walking behavior for the agent, which required tuning the neural network's policy for controlling the Walker’s actions in real-time and learning optimal control strategies over time.
 - Utilized PPO's ability to balance exploration and exploitation effectively, achieving consistent learning progress and significantly improving Walker’s gait, control, and movement precision.
 - This work has applications in **robotic control systems** for legged robots or other dynamic robotic agents, where stability and movement efficiency are critical.
-
-<br>
-<div align="center">
-<img src="https://github.com/user-attachments/assets/39f7fb39-a09e-4b61-8b2f-34c59fcc8c70" alt="FrankMotionPlanner" width="400">
-</div>
-
-### [Franka Motion Planning](https://github.com/KritinMathur/FrankaMotionPlanning)
-- Forward and inverse kinematics were developed for position and velocity to give the arm smooth, precise control over its movements.
-- Built motion planners like RRT and APF for a 7-DOF Franka Emika Panda arm, making it navigate complex environments with ease.
 
 ## Other Projects
 
