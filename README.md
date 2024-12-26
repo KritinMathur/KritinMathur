@@ -23,7 +23,17 @@ In recent years, I have specialized in developing:
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects 
+<br>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/36745bd0-5786-4d54-825e-08c027aa631a" alt="FrankMotionPlanner" width="500">
+</div>
+
+### [Learning-Based RGB-D Sensor Fusion for Semantic Segmentation](https://github.com/KritinMathur/CARLA-SEGMENTATION)
+- Explored semantic segmentation using RGB and depth data fusion with a custom dataset generated in CARLA.
+- Implemented early fusion, convolution-based mid-fusion, and attention-based mid-fusion within a UNet-based architecture.
+- Highlighted improvements in detecting challenging object classes like pedestrians and vehicles in complex environments.
+
 <br>
 <div align="center">
 <img src="https://github.com/user-attachments/assets/39f7fb39-a09e-4b61-8b2f-34c59fcc8c70" alt="FrankMotionPlanner" width="400">
@@ -32,7 +42,6 @@ In recent years, I have specialized in developing:
 ### [Franka Motion Planning](https://github.com/KritinMathur/FrankaMotionPlanning)
 - Forward and inverse kinematics were developed for position and velocity to give the arm smooth, precise control over its movements.
 - Built motion planners like RRT and APF for a 7-DOF Franka Emika Panda arm, making it navigate complex environments with ease.
-
 
 <br>
 <div align="center">
