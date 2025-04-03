@@ -87,6 +87,7 @@ The goal was to achieve stable, smooth walking behavior for the agent, which req
 ## Other Projects
 
 ### UAV Projects
+- **[UAV Strategic Deconfliction in Shared Airspace](https://github.com/KritinMathur/UAV_SDSA)** - Tool designed to detect conflicts in UAV flight paths based on spatial and temporal parameters.
 - **[SPADE-BDI](https://github.com/KritinMathur/SPADE_BDI_UAV)** - Desktop application for testing distributed communication protocols with heterogeneous SITL-MAVs.
 - **[Dronekit](https://github.com/KritinMathur/drone-kit)** - Template code for basic MAVLink commands to interact with drones via Dronekit.
 - **[Obstacle Avoidance Path Planning](https://github.com/KritinMathur/Obstacle-Avoidance-MP)** - Python script for generating waypoint files that enable obstacle avoidance in Mission Planner.
